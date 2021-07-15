@@ -3,9 +3,8 @@ Raman Mukhin
 
 -------------------     ----------------------------
 ##### contacts:
-email:                  Kextcf2018@tut.by
-
-telegram:               [https://t.me/RamanMukhin](https://t.me/RamanMukhin)
+* email:                  Kextcf2018@tut.by
+* telegram:               [https://t.me/RamanMukhin](https://t.me/RamanMukhin)
 -------------------     ----------------------------
 
 About me
