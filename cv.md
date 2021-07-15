@@ -16,13 +16,13 @@ Education
 ---------
 
 2010-2015 year
-:   **[BNTU, EF](https://bntu.by/en/faculties/ef)**; Specialty: Power Engineer
+:   **[BNTU, Faculty of Energy](https://bntu.by/en/faculties/ef)**; Specialty: Power Engineer
 
 2016-2019 year
-:   **[BSEU, EF](http://bseu.by/english/faculty12/faculty12.htm)**; Specialty: Economist-manager
+:   **[BSEU, Higher School of Management and Business](http://bseu.by/english/faculty12/faculty12.htm)**; Specialty: Economist-manager
 
 2020-2022 year
-:   **[BNTU, EF](https://bntu.by/en/faculties/ef)**; Specialty: Master of Engineering Science
+:   **[BNTU, Faculty of Energy](https://bntu.by/en/faculties/ef)**; Specialty: Master of Engineering Science
 
 Experience
 ----------
