@@ -56,6 +56,6 @@ Extra Section
 
 * Human Languages:
 
-     * Belorussian (native speaker)
+   * Belorussian (native speaker)
 	 * Russian (native speaker)
 	 * English (A2)
