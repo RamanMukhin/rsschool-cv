@@ -2,26 +2,63 @@ body {
   margin: 0;
   padding: 0;
   font-size: 14px;
-  line-height: 120%;
+  line-height: 150%;
   font-family: "Times New Roman", serif;
   text-align: center;
+  background: wheat;
 }
 
-ul {
-  list-style-position: inside
+ul, ol {
+  list-style-position: inside;
+  padding-inline-start: 3%;
 }
 
-ol {
-  list-style-position: inside
+main {
+  padding-left: 2 px;
 }
 
-.about {
-  border: blue;
-  margin: 20;
-  padding: 20;
-  font-size: 14px;
-  line-height: 120%;
-  font-family: "Times New Roman", serif;
-  font-style:italic;
+section {
+  border-bottom: 3px solid #ccccccf8;
+  text-align: left;
+  margin: 2%;
+}
+
+.page {
+  width: 80%;
+  margin: auto;
+  background-color: olive;
+}
+
+header {
+  background: goldenrod;
+  padding-top: 10px;
+}
+
+figure {
   text-align: center;
+  margin: 0;
+}
+
+h1 {
+  margin: 1%;
+  font-size: 500%;
+  line-height: 70%;
+}
+
+h2 {
+  padding: 1%;
+  font-size: 150%;
+}
+
+h3 {
+  margin: 0%;
+  font-size: 150%;
+}
+
+p {
+  margin: 1% 0%;
+}
+
+footer {
+  display: inline;
 }
