@@ -70,3 +70,7 @@ p {
 .avatar {
   width: 20%;
 }
+
+footer p {
+  font-size: 14px;
+}
