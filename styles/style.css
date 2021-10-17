@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-size: 20px;
+  font-size: 12px;
   line-height: 150%;
   font-family: "Times New Roman", serif;
   text-align: center;
@@ -10,50 +10,75 @@ body {
 
 ul, ol {
   list-style-position: inside;
-  padding-inline-start: 3%;
-  margin: 5px 0px;
+  padding-inline-start: 1%;
+  margin: 0px;
 }
 
 section {
-  border-bottom: 3px solid #ccccccf8;
+  border-bottom: 2px solid #ccccccf8;
   text-align: left;
-  margin: 2%;
 }
 
-.page {
-  width: 80%;
-  margin: auto;
+.container {
+  margin: 0 auto;
+  max-width: 1440px;
   background-color: olive;
 }
 
+.intro {
+  display: flex;
+}
+
+.aboutMe {
+  display: flex;
+  flex-direction: column;
+}
+
+.intro div {
+  display: flex;
+  flex-direction: column;
+  padding: 0 5%;
+}
+
+.intro ul {
+  display: contents;
+}
+
 header {
+  display: flex;
+  flex-direction: column;
   background: goldenrod;
-  padding-top: 1%;
 }
 
 figure {
-  text-align: center;
-  margin: 0%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0;
 }
 
 h1 {
-  margin: 1%;
-  font-size: 300%;
-  line-height: 70%;
+  margin: 0;
+  padding-top: 0;
+  font-size: 150%;
 }
 
 h2 {
-  padding: 1%;
-  font-size: 150%;
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
 }
 
 h3 {
   margin: 0%;
-  font-size: 150%;
 }
 
 p {
-  margin: 1% 0%;
+  margin: 0%;
+}
+
+a {
+  color: black;
 }
 
 .footer li {
@@ -69,6 +94,11 @@ p {
 
 .avatar {
   width: 20%;
+  border-radius: 10%;
+}
+
+.Experience p {
+  padding-left: 2%;
 }
 
 footer p {
